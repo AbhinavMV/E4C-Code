@@ -8,7 +8,6 @@ Empowering students via Quality Education, this blog is startup run by a single 
 
 ![](https://raw.githubusercontent.com/Harsh-Kadiyan/E4C-Code/eb5cac495eac0ead9a353c058dfa95a82ca5c949/Images/Let%27s%20Contribute.png)
 
-<br>
 
 ## Information 
 
@@ -16,6 +15,7 @@ Empowering students via Quality Education, this blog is startup run by a single 
  - File format : `.xml`
  - Time taken to build : 16 days with several unknown people
  - Runing Platform : Blogger by Google
+ - URL : https://e4ces.blogspot.com
  
  <br>
  <br>
