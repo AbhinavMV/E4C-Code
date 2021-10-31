@@ -25,10 +25,12 @@ Empowering students via Quality Education, this blog is startup run by a single 
  5. Congrats, you have successfully created a blogspot blog
  6. now, scroll dow from left and click on *Themes*
  7. now click on the down arrow of the **Customise Button** 
- <br> ![image](https://user-images.githubusercontent.com/72309871/139573090-ebf53aed-6ad0-4ccf-97e0-348a94f955d0.png)
- 8. after ckicking on down arrow, Click on Edit HTML 
- <br> ![image](https://user-images.githubusercontent.com/72309871/139573142-0ee77a2a-6ba2-49f4-8713-fc77aaa92736.png)
- 9. now, it will open a text editor where you can paste the above code, make changes and can preview it directly from you blog url `(eg : <your name>.blogspot.com)`
+ 8. after clicking on down arrow, Click on Edit HTML option
+ 9. now, it will open a text editor, where you can paste the above code, make changes and can preview it directly from you blog url `(eg : <your name>.blogspot.com)`
+
+<br>
+ 
+ -  If still facing problem message [here](https://github.com/Harsh-Kadiyan/E4C-Code/issues/new) and add *Question* label on it
 
 
 
