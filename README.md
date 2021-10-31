@@ -13,6 +13,9 @@ Empowering students via Quality Education, this blog is startup run by a single 
  - Time taken to build : 16 days with several unknown people
  - Runing Platform : Blogger by Google
  
+ <br>
+ <br>
+ 
  # Setup for (Contributing on Code)
 
  1. Create account on [Blogger](https://www.blogger.com)
