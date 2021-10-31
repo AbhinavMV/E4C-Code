@@ -34,7 +34,7 @@ Empowering students via Quality Education, this blog is startup run by a single 
 
 <br>
  
- -  If still facing problem message [here](https://github.com/Harsh-Kadiyan/E4C-Code/issues/new) and add *Question* label on it
+ -  If you are still facing any problem message me [here](https://github.com/Harsh-Kadiyan/E4C-Code/issues/new) and add *Question* label on it
 
 
 
