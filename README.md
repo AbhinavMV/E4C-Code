@@ -39,10 +39,10 @@ Empowering students via Quality Education, this blog is startup run by a single 
 
 - If you genuinely think that, I can contribute to this article, please don't hesitate, just drop your message [here](https://github.com/Harsh-Kadiyan/E4C-Code/issues/new) and add `Article` label in your issue
 - What comes under Contribution of Article
-- - Addition of new Content
-- - Finding missing Content or grammer mistakes
-- - Deletion of overused and outdated content
-- - Suggesting new content for blog
+  - Addition of new Content
+  - Finding missing Content or grammer mistakes
+  - Deletion of overused and outdated content
+  - Suggesting new content for blog
 
 After your submission of issue, under 2 hours we will reply as comment, is this issue approved or not approved
 
