@@ -33,9 +33,33 @@ Empowering students via Quality Education, this blog is startup run by a single 
  9. now, it will open a text editor, where you can paste the above code, make changes and can preview it directly from you blog url `(eg : <your name>.blogspot.com)`
 
 <br>
- 
- -  If you are still facing any problem message me [here](https://github.com/Harsh-Kadiyan/E4C-Code/issues/new) and add *Question* label on it
+<br>
 
+# Setup for (Contributing on Articles)
 
+- If you genuinely think that, I can contribute to this article, please don't hesitate, just drop your message [here](https://github.com/Harsh-Kadiyan/E4C-Code/issues/new) and add `Article` label in your issue
+- What comes under Contribution of Article
+- - Addition of new Content
+- - Finding missing Content or grammer mistakes
+- - Deletion of overused and outdated content
+- - Suggesting new content for blog
 
+After your submission of issue, under 2 hours we will reply as comment, is this issue approved or not approved
+
+<br>
+
+Way to write message in issue
+
+1. `Your name`
+2. Link of article on which you love to contribute `https://e4ces.blogspot.com/<your-article-name>`
+3. Your long message for Contribution
+4. Any max 2 social media handles eg. YouTube, GitHub, Instagram, etc
+5. Done
+
+<br>
+
+- After approved we will make changes in that article accordingly and *will show your credential in last of that post* 
+`Article is contributed by <Your name> - Support him <Your social media>`
+
+<br>
 
