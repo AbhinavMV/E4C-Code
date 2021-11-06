@@ -3119,7 +3119,7 @@ padding-right: 23px;
 													<b:include cond='!data:view.search.label' name='postMetaBottom'/>
 												</div>
 
-
+<!--
 												<div class='post-image'>
 													<b:if cond='data:post.featuredImage'>
 														<b:if cond='data:post.featuredImage.isYouTube'>
@@ -3133,6 +3133,7 @@ padding-right: 23px;
 														<a class='post-image-link' expr:aria-label='data:post.title' expr:href='data:post.url'><span class='post-thumb lazyload blur-up' style='background-image: url(data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)'/></a>
 													</b:if>
 												</div>
+-->
 											</b:if>
 
 											<b:if cond='data:view.isSingleItem'>
